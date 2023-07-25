@@ -1,0 +1,15 @@
+{
+  "type": "record",
+  "name": "PersonOut",
+  "namespace": "prg.acme.test.testout",
+  "fields": [
+    {
+      "name": "person_id",
+      "type": "string"
+    },
+    {
+      "name": "person_name",
+      "type": "string"
+    }
+  ]
+}
